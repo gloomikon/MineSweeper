@@ -1,0 +1,10 @@
+c:\users\gloomikon\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Debug\minesweeper.csprojResolveAssemblyReference.cache
+c:\users\gloomikon\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Debug\minesweeper.msForm.resources
+c:\users\gloomikon\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Debug\minesweeper.Properties.Resources.resources
+c:\users\gloomikon\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.GenerateResource.Cache
+c:\users\gloomikon\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Debug\minesweeper.exe.config
+c:\users\gloomikon\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Debug\minesweeper.exe
+c:\users\gloomikon\documents\visual studio 2017\Projects\minesweeper\minesweeper\bin\Debug\minesweeper.pdb
+c:\users\gloomikon\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Debug\minesweeper.exe
+c:\users\gloomikon\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Debug\minesweeper.pdb
+C:\Users\gloomikon\documents\visual studio 2017\Projects\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.CoreCompileInputs.cache
